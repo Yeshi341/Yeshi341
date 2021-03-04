@@ -1,6 +1,5 @@
 <h2 align="left">Hi there, I am Lhamu 👋</h2>
 <h3 align="left">I'm a Data Scientist and a Lifelong Learner! 🤔🔎📖</h3>
----
 
 - 👩🏻 Pronouns: she/her/hers
 - 🔭 I’m currently working on ...
@@ -12,6 +11,7 @@
 ---
 
 <h3>🗞 Latest Blog Posts</h3>
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
