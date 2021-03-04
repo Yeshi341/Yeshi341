@@ -12,8 +12,8 @@
 ---
 
 <h3>🗞 Latest Blog Posts</h3>
-<!--BLOG-POST-LIST:START -->
-- <!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 🔷 [more blog posts...][Blog]
 ---
