@@ -4,6 +4,7 @@
 
 <!--
 **Yeshi341/Yeshi341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
 
 Here are some ideas to get you started:
 
@@ -15,7 +16,6 @@ Here are some ideas to get you started:
 - 🥅 2021 Goals: Contribute to Open Source Projects 
 - ⚡ Fun fact: I love to read and take long walks
 - 📫 Connect with me: [LinkedIn]
--->
 
 
 [LinkedIn]: https://www.linkedin.com/in/lhamutsering/
