@@ -1,5 +1,5 @@
-<h2 align="center"> Hi there, I am Lhamu 👋 </h2>
-<h3 align="center"I'm a Data Scientist and a Life Learner! 🤔🔎📖 </h3>
+<h2>align="center"> Hi there, I am Lhamu 👋</h2>
+<h3>align="center"I'm a Data Scientist and a Life Learner! 🤔🔎📖</h3>
 
 <!--
 **Yeshi341/Yeshi341** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - 📫 Connect with me: [LinkedIn]
 ---
 
-<h3> Latest Blog Posts </h3>
+<h3>Latest Blog Posts</h3>
 <!--BLOG-POST-LIST:START -->
 - [Visualizing Time Series Data](https://lhamu.medium.com/want-to-see-things-change-overtime-you-can-29616865518e)
 - [Tic-Tac-Toe with Pygame](https://lhamu.medium.com/a-simple-introduction-to-pygame-with-tic-tac-toe-66d6fb7dff49)
 - <!-- BLOG-POST-LIST:END -->
 🔷 [more blog posts...][Blog]
+---
 
 <details>
   <summary>:zap: Github Stats</summary>
