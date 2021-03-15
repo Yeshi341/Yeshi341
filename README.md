@@ -15,6 +15,8 @@
 <!-- BLOG-POST-LIST:START -->
 - [Want to see things change overtime? You can!](https://medium.com/@lhamu/want-to-see-things-change-overtime-you-can-29616865518e?source=rss-cc35fd4d7fb6------2)
 - [A Simple Introduction to Pygame with Tic-Tac-Toe](https://blog.usejournal.com/a-simple-introduction-to-pygame-with-tic-tac-toe-66d6fb7dff49?source=rss-cc35fd4d7fb6------2)
+- [EDA step of the Data Science Process](https://medium.com/@lhamu/eda-step-of-the-data-science-process-7ef4e6d96b3f?source=rss-cc35fd4d7fb6------2)
+- [Building A Custom Staff Scheduling Model- ‘A beginner’s journey using simple Python’](https://blog.usejournal.com/building-a-custom-staff-scheduling-model-a-beginners-journey-using-simple-python-c568c9965940?source=rss-cc35fd4d7fb6------2)
 <!-- BLOG-POST-LIST:END -->
 
 🔷 [more blog posts...][Blog]
