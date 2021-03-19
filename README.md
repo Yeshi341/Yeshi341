@@ -13,7 +13,7 @@
 <h3>🗞 Latest Blog Posts</h3>
 
 <!-- BLOG-POST-LIST:START -->
-- [Want to see things change overtime? You can!](https://medium.com/@lhamu/want-to-see-things-change-overtime-you-can-29616865518e?source=rss-cc35fd4d7fb6------2)
+- [Want to see things change overtime? You can!](https://lhamu.medium.com/want-to-see-things-change-overtime-you-can-29616865518e?source=rss-cc35fd4d7fb6------2)
 - [A Simple Introduction to Pygame with Tic-Tac-Toe](https://blog.usejournal.com/a-simple-introduction-to-pygame-with-tic-tac-toe-66d6fb7dff49?source=rss-cc35fd4d7fb6------2)
 <!-- BLOG-POST-LIST:END -->
 
