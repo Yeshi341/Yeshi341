@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning everything 🤣 
 - 👯 I’m looking to collaborate with other data scientists on projects that impact change
 - 🥅 2021 Goals: Contribute to Open Source Projects 
-- ⚡ Fun fact: I love to read 📘, take long walks 🚶🏻‍♀️ and try new foods 🤤
+- ⚡ Fun fact: I love to read 📘, take long walks 🚶🏻‍♀️ and trying new foods 🤤. You may also find me listening podcasts- Hidden Brain, GPS with Fareed Zakaria or Code Newbie.
 - 📫 Connect with me: [LinkedIn]
 ---
 
