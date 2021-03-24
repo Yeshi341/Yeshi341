@@ -2,7 +2,7 @@
 <h3 align="left">I'm a Data Scientist and a Lifelong Learner! 🤔🔎📖</h3>
 
 - 👩🏻 Pronouns: she/her/hers
-- 🔭 I’m currently working on analyzing Reddit Vaccine Myth data (from [Kaggle](https://www.kaggle.com/gpreda/reddit-vaccine-myths)) using NLP.
+- 🔭 I’m currently working on analyzing [Reddit Vaccine Myth](https://github.com/Yeshi341/reddit_vacccine_myths) data (from [Kaggle](https://www.kaggle.com/gpreda/reddit-vaccine-myths)) using NLP.
 - 🌱 I’m currently learning everything 🤣 
 - 👯 I’m looking to collaborate with other data scientists on projects that impact change
 - 🥅 2021 Goals: Contribute to Open Source Projects 
