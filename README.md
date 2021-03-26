@@ -8,6 +8,7 @@
 - 🥅 2021 Goals: Contribute to Open Source Projects 
 - ⚡ Fun fact: I love to read 📘, take long walks 🚶🏻‍♀️ and trying new foods 🤤. You may also find me listening to podcasts- Hidden Brain, GPS with Fareed Zakaria or Code Newbie.
 - 📫 Connect with me: [LinkedIn]
+- ❓❓ Ask me anything [here](https://github.com/Yeshi341/Yeshi341/issues/8)!
 ---
 
 <h3>🗞 Latest Blog Posts</h3>
