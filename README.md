@@ -2,8 +2,8 @@
 <h3 align="left">I'm a Data Scientist and a Lifelong Learner! 🤔🔎📖</h3>
 
 - 👩🏻 Pronouns: she/her/hers
-- 🔭 I’m currently working on analyzing [Reddit Vaccine Myth](https://github.com/Yeshi341/reddit_vacccine_myths) data (from [Kaggle](https://www.kaggle.com/gpreda/reddit-vaccine-myths)) using NLP.
-- 🌱 I’m currently learning everything 🤣 
+- 🔭 I’m currently collaborating on an NLP based project with Omdena, with a team of 40+ other collaborators.
+- 🌱 I’m currently learning about NER models.
 - 👯 I’m looking to collaborate with other data scientists on projects that impact change
 - 🥅 2021 Goals: Contribute to Open Source Projects 
 - ⚡ Fun fact: I love to read 📘, take long walks 🚶🏻‍♀️ and trying new foods 🤤. You may also find me listening to podcasts- Hidden Brain, GPS with Fareed Zakaria or Code Newbie.
