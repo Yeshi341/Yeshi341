@@ -2,11 +2,11 @@
 <h3 align="left">I'm a Data Scientist and a Lifelong Learner! 🤔🔎📖</h3>
 
 - 👩🏻 Pronouns: she/her/hers
-- 🔭 I’m currently collaborating on an NLP based project with Omdena, with a team of 40+ other collaborators.
-- 🌱 I’m currently learning about NER models.
+- 🔭 I’m currently learning about various AWS services and Big Data.
+- 🌱 I’m currently working towards completing my AWS Data Analytics Certification.
 - 👯 I’m looking to collaborate with other data scientists on projects that impact change
 - 🥅 2021 Goals: Contribute to Open Source Projects 
-- ⚡ Fun fact: I love to read 📘, take long walks 🚶🏻‍♀️ and trying new foods 🤤. You may also find me listening to podcasts- Hidden Brain, GPS with Fareed Zakaria or Code Newbie.
+- ⚡ Fun fact: I love to read 📘, take long walks 🚶🏻‍♀️ and trying new foods 🤤. You may also find me listening to podcasts- Hidden Brain, GPS with Fareed Zakaria or Code Newbie. Recently started on a Paint By Numbers project and have been loving the experience.
 - 📫 Connect with me: [LinkedIn]
 - ❓❓ Ask me anything [here](https://github.com/Yeshi341/Yeshi341/issues/8)!
 ---
