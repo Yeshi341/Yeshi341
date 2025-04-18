@@ -9,7 +9,7 @@
 - ⚡ Fun fact: I love to read 📘, take long walks 🚶🏻‍♀️ and trying new foods 🤤. You may also find me listening to podcasts- Hidden Brain, GPS with Fareed Zakaria or Code Newbie. Recently started on a Paint By Numbers project and have been loving the experience.
 - ❓❓ Ask me anything [here](https://github.com/Yeshi341/Yeshi341/issues/8)!
 
-[- 📫 Connect with me: [LinkedIn](https://www.linkedin.com/in/lhamutsering/)!]: #
+[Connect with me: [LinkedIn](https://www.linkedin.com/in/lhamutsering/)!]: #
 
 ---
 
